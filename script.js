@@ -8,5 +8,8 @@
 // console.log(typeof(b));
 
 var a = Math.max(Math.random()*100, 30);
+var b = Math.round(Math.random()*10);
+
+
 
 console.log(a)
